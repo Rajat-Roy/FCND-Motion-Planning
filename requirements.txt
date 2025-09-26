@@ -1,0 +1,11 @@
+matplotlib
+jupyter
+future
+lxml
+networkx
+scikit-image
+scipy
+shapely
+scikit-learn
+bresenham
+msgpack
